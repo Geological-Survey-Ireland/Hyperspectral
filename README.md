@@ -9,6 +9,11 @@ The entire dataset is freely available please contact gsi.corestore[AT]gsi.ie to
 
 This repository will host notebooks using the sample dataset explaining some of the methods we have used in python to pre-process and process our image data.
 
-#### 1. Opening and Starting with GSI Hyperpectral Data
+#### 1. Opening and Starting with GSI Hyperpectral Data <a target="_blank" href="https://colab.research.google.com/github/Geological-Survey-Ireland/Hyperspectral/blob/main/1_Opening_and_Starting_with_GSI_Hyperpectral_Data.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 #### 2. Denoising GSI Hyperspectral Data 
+
+
 #### 3. Removing the core box from the image
