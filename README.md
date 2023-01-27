@@ -11,7 +11,6 @@ This repository will host notebooks using the sample dataset explaining some of 
 
 ##### 1. Opening and Starting with GSI Hyperpectral Data           [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Geological-Survey-Ireland/Hyperspectral/blob/main/1_Opening_and_Starting_with_GSI_Hyperpectral_Data.ipynb)
 
-##### 2. Denoising GSI Hyperspectral Data 
-
+##### 2. Denoising GSI Hyperspectral Data      [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Geological-Survey-Ireland/Hyperspectral/blob/main/2_Denoising_GSI_Hyperspectral_Data.ipynb)
 
 ##### 3. Removing the core box from the image
