@@ -4,7 +4,7 @@ Geological Survey Ireland has a [core scanning](https://www.gsi.ie/en-ie/more-on
 
 We have over 400km of drill core in our [core store](https://www.gsi.ie/en-ie/more-on-us/facilities/Pages/Core-store.aspx) and are in the process of scanning all of it. We currently have ~7Tb of data.
 
-A sample dataset consisting of 1 box of core is available to download from the GSI website (need add link)
+A sample dataset consisting of 1 box of core is available to download from the [GSI website](https://www.gsi.ie/en-ie/data-and-maps/Pages/Bedrock.aspx#Hyper)
 
 The entire dataset is freely available please contact gsi.corestore[AT]gsi.ie to discuss.
 
