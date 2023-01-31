@@ -6,7 +6,9 @@ We have over 400km of drill core in our [core store](https://www.gsi.ie/en-ie/mo
 
 A sample dataset consisting of 1 box of core is available to download from the [Geological Survey Ireland website](https://www.gsi.ie/en-ie/data-and-maps/Pages/Bedrock.aspx#Hyper)
 
-The entire dataset is freely available please contact gsi.corestore[AT]gsi.ie to discuss.
+The entire dataset is freely available please contact gsi.corestore[AT]gsi.ie to discuss. 
+
+For questions, issues, suggestions for improvement or to discuss collaboration, please contact Russell Rogers, c/o duty.geologist[AT]decc.gov.ie.
 
 This repository will host notebooks using the sample dataset explaining some of the methods we have used in python to pre-process and process our image data.
 
