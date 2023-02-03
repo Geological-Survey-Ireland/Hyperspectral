@@ -17,3 +17,5 @@ This repository will host notebooks using the sample dataset explaining some of 
 ##### 2. Denoising Geological Survey Ireland Hyperspectral Data      [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Geological-Survey-Ireland/Hyperspectral/blob/main/2_Denoising_GSI_Hyperspectral_Data.ipynb)
 
 ##### 3. Removing the core box from the image    [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Geological-Survey-Ireland/Hyperspectral/blob/main/3_Removing_the_core_box_from_the_image.ipynb)
+
+##### 4. Removing the continuum    [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Geological-Survey-Ireland/Hyperspectral/blob/main/4_Removing_the_continuum.ipynb)
